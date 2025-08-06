@@ -1,0 +1,20 @@
+.container {
+  width: 900px;
+}
+
+.image {
+  height: 600px;
+}
+
+.text {
+  padding: 10px 20px;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.likes {
+  flex-shrink: 0;
+}
